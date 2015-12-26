@@ -1,0 +1,6 @@
+bobo boboadmin boboadmin 123456 beijing 10010 1
+qqq qqq qqq 122222 beijing 11111 2
+bobo1 boboadmin1 boboadmin1 123 beijing 111223 1
+qqq qqq qqq 123 dsad 1112 2
+qwe qwe qwe q q q 2
+rrr rrr rrr 1 1 1 1
